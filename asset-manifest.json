@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Realestate/static/css/main.c2d1a3cf.css",
+    "main.js": "/Realestate/static/js/main.127641ff.js",
+    "index.html": "/Realestate/index.html",
+    "main.c2d1a3cf.css.map": "/Realestate/static/css/main.c2d1a3cf.css.map",
+    "main.127641ff.js.map": "/Realestate/static/js/main.127641ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d1a3cf.css",
+    "static/js/main.127641ff.js"
+  ]
+}
