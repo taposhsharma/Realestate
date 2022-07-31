@@ -6,7 +6,7 @@ import CardMedia from '@mui/material/CardMedia';
 
 import Typography from '@mui/material/Typography';
 
-import { Container, Grid ,Box} from '@mui/material';
+import { Grid } from '@mui/material';
 import Divider from '@mui/material/Divider';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import BedroomParentIcon from '@mui/icons-material/BedroomParent';
